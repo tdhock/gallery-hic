@@ -1,4 +1,6 @@
+tdhock/2025-10-02-HiC-pixels-heat-borders
 tdhock/2025-10-01-HiC-pixels-volcano-clusters
 tdhock/2025-10-01-HiC-pixels-volcano-zoom
 tdhock/2025-10-01-HiC-pixels-volcano
+tdhock/2025-09-25-hicream-chunk
 tdhock/2025-09-25-hicream
