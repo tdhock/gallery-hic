@@ -1,11 +1,11 @@
 ---
-title: Change-point detection gallery
+title: HiC gallery
 output:
   html_document:
     self_contained: false
 ---
 
-This is a gallery of data visualizations about change-point detection
+This is a gallery of data visualizations about [Hi-C](https://en.wikipedia.org/wiki/Hi-C_(genomic_analysis_technique)) analysis
 which have been creating using the R package
 [animint2](https://github.com/animint/animint2).
 
@@ -41,7 +41,7 @@ myread <- function(csv, repo.col){
 }
 meta.dt <- myread("meta.csv")[, let(
   source.link = ahref(source, "source"),
-  video.link = ifelse(video=="", "", ahref(video,  "video"))
+  video.link = ifelse(is.na(video) | video=="", "", ahref(video,  "video"))
 )][
 , links := paste(repo.link, source.link, video.link)
 ][
@@ -67,11 +67,11 @@ if(file.exists("error.csv")){
   print(knitr::kable(error.dt[, .(
     viz.link, repo.link, error
   )]))
-  print(download("error.csv"))
+  download("error.csv")
 }
 ```
 
 ## Source code
 
-* [This gallery repository](https://github.com/tdhock/gallery-change-point/tree/gh-pages),
+* [This gallery repository](https://github.com/tdhock/gallery-hic/tree/gh-pages),
 * [`animint2::update_gallery()`](https://github.com/animint/animint2/blob/master/R/z_pages.R).
