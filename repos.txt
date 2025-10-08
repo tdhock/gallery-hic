@@ -1,3 +1,4 @@
+tdhock/2025-10-02-HiC-pixels-zoom-diamonds
 tdhock/2025-10-02-HiC-pixels-heat-borders
 tdhock/2025-10-01-HiC-pixels-volcano-clusters
 tdhock/2025-10-01-HiC-pixels-volcano-zoom

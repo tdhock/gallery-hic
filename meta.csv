@@ -5,3 +5,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-10-02T01:50:18.330533Z,tdhock/2025-10-01-HiC-pixels-volcano,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-01/figure-pixels-volcano-interactive.R,Hi-C pixels linked to volcano plot
 2025-10-02T14:59:13.129609Z,tdhock/2025-09-25-hicream-chunk,,https://github.com/tdhock/hicream-viz/blob/main/example_animint2_hicream/plot_2025-09-25.R,"Hicream Exploration, five TSV files for polygons"
 2025-10-02T14:59:13.129609Z,tdhock/2025-09-25-hicream,,https://github.com/tdhock/hicream-viz/blob/main/example_animint2_hicream/plot_2025-09-25.R,"Hicream Exploration, one TSV file for polygons"
+2025-10-08T17:48:10.244028Z,tdhock/2025-10-02-HiC-pixels-zoom-diamonds,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-02/figure-pixels-zoom.R,Hi-C pixels zoom using diamonds
