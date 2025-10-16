@@ -1,6 +1,6 @@
 add.POSIXct,viz_owner_repo,video,source,title
 2025-10-15T16:58:25.839288Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters-sizes,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters-sizes.R,Hi-C pixels chr1 clusters zoom using tiles and sizes
-2025-10-13T15:17:35.796576Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters.R,Hi-C pixels chr1 clusters zoom using tiles
+2025-10-16T13:52:11.475903Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters-small,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters-small.R,Hi-C pixels chr1 clusters zoom using tiles small
 2025-10-13T01:55:10.902628Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles.R,Hi-C pixels chr1 zoom using tiles
 2025-10-10T04:25:35.805737Z,tdhock/2025-10-02-HiC-pixels-zoom-tiles,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-02/figure-pixels-zoom-tiles.R,Hi-C pixels zoom using tiles
 2025-10-08T17:52:41.819996Z,tdhock/2025-10-02-HiC-pixels-zoom-diamonds,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-02/figure-pixels-zoom-diamonds.R,Hi-C pixels zoom using diamonds
@@ -10,4 +10,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-10-02T01:50:18.330533Z,tdhock/2025-10-01-HiC-pixels-volcano,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-01/figure-pixels-volcano-interactive.R,Hi-C pixels linked to volcano plot
 2025-10-02T14:59:13.129609Z,tdhock/2025-09-25-hicream-chunk,,https://github.com/tdhock/hicream-viz/blob/main/example_animint2_hicream/plot_2025-09-25.R,"Hicream Exploration, five TSV files for polygons"
 2025-10-02T14:59:13.129609Z,tdhock/2025-09-25-hicream,,https://github.com/tdhock/hicream-viz/blob/main/example_animint2_hicream/plot_2025-09-25.R,"Hicream Exploration, one TSV file for polygons"
-2025-10-16T13:52:11.475903Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters-small,,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters-small.R,Hi-C pixels chr1 clusters zoom using tiles small
+2025-10-16T13:57:04.777673Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters,https://vimeo.com/1127879183,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters.R,Hi-C pixels chr1 clusters zoom using tiles
