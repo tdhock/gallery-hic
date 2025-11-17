@@ -46,7 +46,7 @@ meta.dt <- myread("meta.csv")[, let(
 )][
 , links := paste(repo.link, source.link, video.link)
 ][
-  repos_dt, on="viz_owner_repo"
+  repos_dt, on="viz_owner_repo", nomatch=0L
   ##order(-add.POSIXct)
 ]
 ```
